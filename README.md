@@ -7,6 +7,7 @@
 * 05: 線形回帰:重回帰
 * 06: 分類
 * 07: ランダムフォレスト分類
+* 08: 課題
 ---
 ![image](https://user-images.githubusercontent.com/130117169/232673081-f3f1565d-f9b2-4ed3-b2ea-d872c8889cfb.png)
 ---
