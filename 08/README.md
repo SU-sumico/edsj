@@ -1,5 +1,5 @@
 page 1
-![image](https://github.com/SU-sumico/edsj/assets/130117169/6d1eccd6-a58c-4097-98a6-fd7d57a8ef03)
+![image](https://github.com/SU-sumico/edsj/assets/130117169/da5d7b46-58bc-4129-b17a-fe16e83d031a)
 ---
 page 2
 ![image](https://github.com/SU-sumico/edsj/assets/130117169/ab5ab6fa-8e6d-488d-8e82-45920d929b17)
